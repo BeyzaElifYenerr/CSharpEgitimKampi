@@ -10,7 +10,9 @@ namespace CSharpEgitimKampi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("merhaba dunya");
+            Console.WriteLine("merhaba Sabit");
+            Console.WriteLine("art artik");
+            Console.WriteLine("deneme");
             Console.Read();
         }
     }
